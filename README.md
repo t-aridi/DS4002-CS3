@@ -1,6 +1,6 @@
 # DS4002 Case Study: Fruit Image Classification Challenge
 
-Welcome! This repository contains all the materials you'll need to embark on an exciting case study: "The AI Fruit Detective." Your mission is to explore a dataset of fruit images, and then design, build, train, and evaluate a Convolutional Neural Network (CNN) to classify these fruits.
+Welcome! This repository contains all the materials you'll need to embark on an exciting case study: your mission is to explore a dataset of fruit images, and then design, build, train, and evaluate a Convolutional Neural Network (CNN) to classify these fruits.
 
 This project will give you hands-on experience with a real-world image classification task, from understanding the data to interpreting a deep learning model's performance.
 
